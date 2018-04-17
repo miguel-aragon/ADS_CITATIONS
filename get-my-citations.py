@@ -1,8 +1,8 @@
 #
 #
+# Simple web scraper.
 #
-#
-#
+# Written by Miguel A. Aragon-Calvo (2017)
 #
 #
 
